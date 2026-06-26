@@ -1,3 +1,4 @@
 - [NADES](https://csnades.gg/favourites)
 - [DM](https://cybershoke.net/ru/cs2/servers/dm)
 - [REFRAG](https://play.refrag.gg/routines)
+- [FACEIT](https://www.faceit.com/en/matchmaking)
